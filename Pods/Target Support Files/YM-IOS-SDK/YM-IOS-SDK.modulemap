@@ -1,0 +1,6 @@
+framework module YM_IOS_SDK {
+  umbrella header "YM-IOS-SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
